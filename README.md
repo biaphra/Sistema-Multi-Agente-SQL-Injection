@@ -1,4 +1,6 @@
-# 🤖 Sistema Multi-Agente de Teste SQL Injection
+# Sistema Multi-Agente de Teste SQL Injection
+
+![Screenshot do projeto](img/tela.png)
 
 Um sistema avançado de teste de segurança que utiliza **5 agentes especializados de IA** para detectar vulnerabilidades de SQL Injection de forma inteligente e automatizada.
 
